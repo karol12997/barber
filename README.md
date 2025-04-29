@@ -12,8 +12,6 @@ Projekt aplikacji webowej
 - go to barber/frontend/HAIRZONE
 - run npm install command
 
-# node_modules NOT IN GITIGONRE FOR DEV
-
 # Run the app
 -go to barber/backend/server
 - run npm run dev command
