@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@lynx-js/react": "^0.107.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.25.1",
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  }
+}
